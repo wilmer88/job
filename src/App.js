@@ -1,4 +1,8 @@
-import Navbar from "./components/Navbar/Navbar"
+import Navbar from "./components/Navbar/Navbar";
+import {Route, Switch} from "react-router-dom";
+
+import { Link } from "react-router-dom";
+
 
 function App() {
   return (
