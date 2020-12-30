@@ -8,7 +8,7 @@ function Navbar() {
    <Router>
    <nav class="navbar navbar-dark bg-dark">
       <Link to="">
-      <button class="btn btn-outline-success" type="button">Nutrition</button>
+      <button class="btn btn-outline-success" type="button"><strong>Portfolio</strong></button>
       </Link>
       <Link to="">
     <button class="btn btn-sm btn-outline-secondary" type="button">saved videos</button>
