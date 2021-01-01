@@ -1,5 +1,6 @@
-import Navbar from "./components/Navbar/Navbar";
+// import Navbar from "./components/Navbar/Navbar";
 import Text from "./components/Navbar/Text/Text";
+import Sidenav from "./components/Sidenav/Sidenav"
 // import {Route, Switch} from "react-router-dom";
 
 // import { Link } from "react-router-dom";
@@ -7,8 +8,11 @@ import Text from "./components/Navbar/Text/Text";
 
 function App() {
   return (
+    
     <div className="App">
-      <Navbar />
+      <Sidenav />
+      {/* <Navbar /> */}
+      
       <Text />
     </div>
   );
