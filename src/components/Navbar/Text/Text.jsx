@@ -21,10 +21,10 @@ const Text = () => {
             Im taking this new path as a new  web develper to challange my self and abilities.
              Always taking  pride in the work Im assign, being critical of myself and of the finished product.
             Ready for the reward from hard work and the extra miles while also
-            bringing  satisfaction and
+            bringing  satisfaction while
             treating the project as my own.</p>
        <p> Always in search to see the truth of how things are. </p>
-
+       <p>Hungry for knowledge, and hungry to bring value to everything around me</p>
           <h5>Contact Me</h5>
             <p>Cell: 706-331-4752</p>
           <p>email: wilmerbaby@gmail.com</p>
